@@ -1,0 +1,32 @@
+{
+  "name": "rest-api-blockchain-",
+  "version": "1.0.0",
+  "description": "En Node.js-applikation som simulerar ett blockkedjesystem, utformad som ett REST API för att skapa, lista och hämta block i en blockkedja, med fokus på proof-of-work-validering och persistent lagring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "dev": "nodemon src/server.mjs",
+    "start": "node src/server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gl373/Rest-API-Blockchain-.git"
+  },
+  "author": "Jihi Glete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gl373/Rest-API-Blockchain-/issues"
+  },
+  "homepage": "https://github.com/Gl373/Rest-API-Blockchain-#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.1",
+    "vitest": "^3.1.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "mongoose": "^8.15.0",
+    "uuid": "^11.1.0"
+  }
+}
