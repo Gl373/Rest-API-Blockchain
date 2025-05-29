@@ -1,0 +1,105 @@
+{
+  "timestamp": "2025-05-27T12:03:48.339Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 400,
+  "message": "Transaction requires id, amount, sender, and receiver"
+}
+{
+  "timestamp": "2025-05-27T12:04:53.535Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 400,
+  "message": "Transaction requires id, amount, sender, and receiver"
+}
+{
+  "timestamp": "2025-05-27T12:05:15.413Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 400,
+  "message": "Transaction requires id, amount, sender, and receiver"
+}
+{
+  "timestamp": "2025-05-27T12:09:19.613Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 400,
+  "message": "Expected ',' or '}' after property value in JSON at position 95 (line 7 column 5)"
+}
+{
+  "timestamp": "2025-05-27T12:16:05.553Z",
+  "method": "GET",
+  "url": "/api/blocks/05a8294229016da45e472e78cd3d51f0a539349f078b2c39ab05ae0371f4921a",
+  "status": 404,
+  "message": "Block with hash 05a8294229016da45e472e78cd3d51f0a539349f078b2c39ab05ae0371f4921a not found"
+}
+{
+  "timestamp": "2025-05-27T12:19:08.877Z",
+  "method": "GET",
+  "url": "/api/blocks/0512219467fc3da98500e89a2e5bc996a0ded3a0df31d271f8df0f4a962adcc5",
+  "status": 404,
+  "message": "Block with hash 0512219467fc3da98500e89a2e5bc996a0ded3a0df31d271f8df0f4a962adcc5 not found"
+}
+{
+  "timestamp": "2025-05-27T12:35:04.760Z",
+  "method": "GET",
+  "url": "/api/blocks/0fb0fb614aa0bda59ba5624ed63fd35fdd892b143f51267f346e9b27abeee75c",
+  "status": 404,
+  "message": "Block with hash 0fb0fb614aa0bda59ba5624ed63fd35fdd892b143f51267f346e9b27abeee75c not found"
+}
+{
+  "timestamp": "2025-05-29T09:35:02.242Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 400,
+  "message": "Bad control character in string literal in JSON at position 39 (line 3 column 19)"
+}
+{
+  "timestamp": "2025-05-29T12:11:29.317Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 500,
+  "message": "this.saveChain is not a function"
+}
+{
+  "timestamp": "2025-05-29T12:12:05.038Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 500,
+  "message": "this.saveChain is not a function"
+}
+{
+  "timestamp": "2025-05-29T12:12:10.247Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 500,
+  "message": "this.saveChain is not a function"
+}
+{
+  "timestamp": "2025-05-29T12:16:14.370Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 500,
+  "message": "this.saveChain is not a function"
+}
+{
+  "timestamp": "2025-05-29T12:17:02.868Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 500,
+  "message": "this.saveChain is not a function"
+}
+{
+  "timestamp": "2025-05-29T12:18:05.940Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 500,
+  "message": "this.saveChain is not a function"
+}
+{
+  "timestamp": "2025-05-29T12:18:21.616Z",
+  "method": "POST",
+  "url": "/api/blocks",
+  "status": 500,
+  "message": "this.saveChain is not a function"
+}

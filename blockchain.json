@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": 1748436891957,
+    "lastHash": "----",
+    "data": [],
+    "hash": "#1",
+    "nonce": 0,
+    "difficulty": 2
+  },
+  {
+    "timestamp": 1748523954750,
+    "lastHash": "#1",
+    "data": {
+      "id": "tx753",
+      "amount": 1500,
+      "sender": "Ugglan Hoo",
+      "receiver": "Simba",
+      "timestamp": 1748523954743
+    },
+    "hash": "03db52988f8204da32209b2025824d2ae85c6ad28a54f0dd2dd60c0e96181329",
+    "nonce": 14,
+    "difficulty": 1
+  }
+]
